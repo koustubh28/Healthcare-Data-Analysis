@@ -1,0 +1,21 @@
+https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
+
+'Alcohol',
+ 'Arthritis',
+ 'Asthma',
+ 'Cancer',
+ 'Cardiovascular Disease',
+ 'Chronic Kidney Disease',
+ 'Chronic Obstructive Pulmonary Disease',
+ 'Cognitive Health and Caregiving',
+ 'Diabetes',
+ 'Disability',
+ 'Health Status',
+ 'Immunization',
+ 'Maternal Health',
+ 'Mental Health',
+ 'Nutrition, Physical Activity, and Weight Status',
+ 'Oral Health',
+ 'Sleep',
+ 'Social Determinants of Health',
+ 'Tobacco']
